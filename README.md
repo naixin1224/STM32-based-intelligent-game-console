@@ -7,7 +7,7 @@ This project is based on the <strong>STM32F407</strong> single-chip microcompute
 this repository contains **Schematic diagram** and **InfoNes**, The Ide is keil5, you can open it,just by click it.
 
 ### File structure
-```
+<pre style="color: #A9FFB4">
 ├─InfoNES
 │  ├─Core
 │  │  ├─Inc
@@ -239,7 +239,7 @@ this repository contains **Schematic diagram** and **InfoNes**, The Ide is keil5
 │      ├─App
 │      └─Target
 └─Schematic_diagram
-```
+</pre>
 
 ## conclusion
 This game console provides users with a rich entertainment experience. With its advanced features and functions, it meets the diverse needs of users. Whether it's playing games, listening to music, or viewing pictures, this console can offer high-quality performance. The time setting and stopwatch functions add practicality to the device, making it more useful in daily life.
@@ -247,3 +247,4 @@ This game console provides users with a rich entertainment experience. With its 
 ## result
 ### with a game:
 <img src="/images/image.png" alt="game">
+<img src="/images/image2.png" alt="picture">
